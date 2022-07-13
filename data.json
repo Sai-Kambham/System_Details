@@ -1,0 +1,409 @@
+{
+  "input_data": [
+    {
+      "Process_ID": "1",
+      "Arrival_Time": 2,
+      "Burst_Time": 3
+    },
+    {
+      "Process_ID": "2",
+      "Arrival_Time": 1,
+      "Burst_Time": 2
+    },
+    {
+      "Process_ID": "3",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "4",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "5",
+      "Arrival_Time": 10,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "6",
+      "Arrival_Time": 17,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "7",
+      "Arrival_Time": 5,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "8",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "9",
+      "Arrival_Time": 7,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "10",
+      "Arrival_Time": 9,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "11",
+      "Arrival_Time": 6,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "12",
+      "Arrival_Time": 3,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "13",
+      "Arrival_Time": 14,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "14",
+      "Arrival_Time": 42,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "15",
+      "Arrival_Time": 40,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "16",
+      "Arrival_Time": 23,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "17",
+      "Arrival_Time": 17,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "18",
+      "Arrival_Time": 18,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "19",
+      "Arrival_Time": 19,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "20",
+      "Arrival_Time": 10,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "21",
+      "Arrival_Time": 21,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "22",
+      "Arrival_Time": 22,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "23",
+      "Arrival_Time": 23,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "24",
+      "Arrival_Time": 24,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "25",
+      "Arrival_Time": 25,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "26",
+      "Arrival_Time": 26,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "27",
+      "Arrival_Time": 27,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "28",
+      "Arrival_Time": 28,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "29",
+      "Arrival_Time": 29,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "30",
+      "Arrival_Time": 39,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "31",
+      "Arrival_Time": 24,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "32",
+      "Arrival_Time": 25,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "33",
+      "Arrival_Time": 26,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "34",
+      "Arrival_Time": 34,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "35",
+      "Arrival_Time": 35,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "36",
+      "Arrival_Time": 34,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "37",
+      "Arrival_Time": 44,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "38",
+      "Arrival_Time": 24,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "39",
+      "Arrival_Time": 45,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "40",
+      "Arrival_Time": 43,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "41",
+      "Arrival_Time": 44,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "42",
+      "Arrival_Time": 42,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "43",
+      "Arrival_Time": 43,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "44",
+      "Arrival_Time": 44,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "45",
+      "Arrival_Time": 45,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "46",
+      "Arrival_Time": 46,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "47",
+      "Arrival_Time": 47,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "48",
+      "Arrival_Time": 48,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "49",
+      "Arrival_Time": 49,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "50",
+      "Arrival_Time": 50,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "51",
+      "Arrival_Time": 15,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "52",
+      "Arrival_Time": 25,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "53",
+      "Arrival_Time": 35,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "54",
+      "Arrival_Time": 45,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "55",
+      "Arrival_Time": 55,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "56",
+      "Arrival_Time": 65,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "57",
+      "Arrival_Time": 75,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "58",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "59",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "60",
+      "Arrival_Time": 78,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "61",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "62",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "63",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "64",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "65",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "66",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "67",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "68",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "69",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "70",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "71",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "72",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "73",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "74",
+      "Arrival_Time": 4,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "75",
+      "Arrival_Time": 5,
+      "Burst_Time": 4
+    },
+    {
+      "Process_ID": "76",
+      "Arrival_Time": 6,
+      "Burst_Time": 6
+    },
+    {
+      "Process_ID": "77",
+      "Arrival_Time": 7,
+      "Burst_Time": 7
+    },
+    {
+      "Process_ID": "78",
+      "Arrival_Time": 8,
+      "Burst_Time": 8
+    },
+    {
+      "Process_ID": "79",
+      "Arrival_Time": 9,
+      "Burst_Time": 9
+    },
+    {
+      "Process_ID": "80",
+      "Arrival_Time": 25,
+      "Burst_Time": 54
+    },
+    {
+      "Process_ID": "81",
+      "Arrival_Time": 7,
+      "Burst_Time": 4
+    }
+  ]
+}
